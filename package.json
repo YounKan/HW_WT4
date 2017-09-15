@@ -1,0 +1,24 @@
+{
+  "name": "homework4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YounKan/HW_WT4.git"
+  },
+  "author": "Youn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YounKan/HW_WT4/issues"
+  },
+  "homepage": "https://github.com/YounKan/HW_WT4#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {}
+}
